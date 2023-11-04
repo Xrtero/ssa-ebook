@@ -1,16 +1,19 @@
 # Summary
 
+## Part I Vanilla SSA
 [Introduction](./Part%20I%20Vanilla%20SSA/1.%20Introduction.md)
 [Properties and Flavors](./Part%20I%20Vanilla%20SSA/2.%20Properties%20and%20Flavors.md)
 [Standard Construction and Destruction Algorithms](./Part%20I%20Vanilla%20SSA/3.%20Standard%20Construction%20and%20Destruction%20Algorithms.md)
 [Advanced Construction Algorithms for SSA](./Part%20I%20Vanilla%20SSA/4.%20Advanced%20Construction%20Algorithms%20for%20SSA.md)
 [SSA Reconstruction](./Part%20I%20Vanilla%20SSA/5.%20SSA%20Reconstruction.md)
 [Functional Representations of SSA](./Part%20I%20Vanilla%20SSA/6.%20Functional%20Representations%20of%20SSA.md)
+## Part II Analysis
 [Introduction](./Part%20II%20Analysis/7.%20Introduction.md)
 [Progagating Information Using SSA](./Part%20II%20Analysis/8.%20Propagating%20Information%20Using%20SSA.md)
 [Liveness](./Part%20II%20Analysis/9.%20Liveness.md)
 [Loop Tree and Induction Variables](./Part%20II%20Analysis/10.%20Loop%20Tree%20and%20Induction%20Variables.md)
 [Redundancy Elimination](./Part%20II%20Analysis/11.%20Redundancy%20Elimination.md)
+## Part III Extensions
 [Introduction](./Part%20III%20Extensions/12.%20Introduction.md)
 [Static Single Information Form](./Part%20III%20Extensions/13.%20Static%20Single%20Information%20Form.md)
 [Graphs and Gating Functions](./Part%20III%20Extensions/14.%20Graphs%20and%20Gating%20Functions.md)
